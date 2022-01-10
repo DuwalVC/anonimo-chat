@@ -8,6 +8,10 @@ const StyledGlobal = createGlobalStyle`
     color: white;
   }
 
+  body{
+    font-family: 'Poppins', sans-serif;;
+  }
+
   .scrollChat{
     background: #2f3237;
   height: calc(100% - 120px);
